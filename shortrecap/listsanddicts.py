@@ -22,6 +22,8 @@ departments = ["T98700", "T96800", "T91000"]
 # print(departments[:2])
 # print()
 # print(departments[::-1])
+# for dept in departments:
+#     print(dept)
 
 
 # ##############################
