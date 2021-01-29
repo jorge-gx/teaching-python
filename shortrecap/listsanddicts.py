@@ -14,6 +14,7 @@ my_name = "Python"
 # defining a list named: departments
 # and initializing it with three elements
 # a list is an array, indexed beginning with '0'
+
 departments = ["T98700", "T96800", "T91000"]
 
 # print(departments[0])
@@ -22,6 +23,17 @@ departments = ["T98700", "T96800", "T91000"]
 # print(departments[:2])
 # print()
 # print(departments[::-1])
+
+# # append a str
+# departments.append("BSS1000")
+# print(departments)
+# print(type(departments[3]))
+#
+# # append an int
+# departments.append(777777)
+# print(departments)
+# print(type(departments[4]))
+
 # for dept in departments:
 #     print(dept)
 
